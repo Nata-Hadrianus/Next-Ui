@@ -10,7 +10,6 @@ Este é um projeto que visa mostrar a beleza da natureza por meio de cards respo
 - [Tailwind CSS](https://tailwindcss.com/): Um framework de CSS utilitário altamente configurável que permite criar estilos rapidamente.
 - [Next UI](https://nextui.org/): Uma biblioteca de componentes de IU para React com uma ampla variedade de componentes personalizáveis.
 
-[Veja a demonstração ao vivo](https://seu-link-aqui.com)
 
 ## Como Usar
 
